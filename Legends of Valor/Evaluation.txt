@@ -1,0 +1,7 @@
+Evaluation:
+
+Our team finally chose XinLong's version and reached the initial expectation in the end.
+
+At first we would like to choose Zhaoyu's version as his code is the most straight forward. 
+
+However, we noticed the manipulation of interface classes in XinLong's code is worth learning and using. It controls all methods that each object can call standardly. When we three were programming at the same time, we found it greatly reduced the possibility of repeated coding. Also, this design consists of a marker that contains all information each cell in the map needs. We just need to override the method if necessary, which reduces by duplicate code blocks. Trying to call the same method in different usage scenarios is always efficient. It happens in Helper class as well, which is designed to check user's input.
