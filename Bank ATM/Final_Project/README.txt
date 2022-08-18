@@ -3,12 +3,15 @@
 ###group members：
 Name : Xinlong Zhang
 Email : xinlongz@bu.edu
+Xinlong zhang designed OOD structure and implement most of the methods except methods relates to factory mode.
 
 Name : Zhaoyu Yin
 Email: zyyin@bu.edu
+Zhaoyu is responsible for UI design and use of xinlong's code
 
 Name : Yuesi Liu
 Email : yzl268@bu.edu
+Yuesi is responsible for bug fix and factory design.
 
 ###Execution Instruction
 1.Unzip the Final_Project.zip file and enter the directory in terminal
